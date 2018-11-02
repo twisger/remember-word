@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "koa": "^2.6.1",
+    "puppeteer": "^1.10.0",
+    "sqlite3": "^4.0.3"
+  }
+}
